@@ -1,4 +1,7 @@
+https://www.gov.br/governodigital/pt-br/governanca-de-dados/guia-lgpd.pdf
+
 https://www.gov.br/governodigital/pt-br/governanca-de-dados/diagnostico-de-adequacao-a-lgpd 
+
 
 ## 1. Governança
 
